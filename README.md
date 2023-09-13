@@ -20,7 +20,7 @@
 ---
 
 <div align="center" style="display:flex ">
-<img width="500px" src = "./readme-assets/accenture.jpg">
+<img width="500px" src = "./readme-assets/accenture.jpeg">
 </div>
 <table>
   <tr>
