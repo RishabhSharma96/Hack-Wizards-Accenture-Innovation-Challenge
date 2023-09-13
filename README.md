@@ -14,13 +14,13 @@
 ---
 
 <div align="center">
-<img  src = "./readme-assets/Homepage.png">
+  <img width="500px" src = "./readme-assets/accenture.jpeg">
   </div>
 
 ---
 
 <div align="center" style="display:flex ">
-<img width="500px" src = "./readme-assets/accenture.jpeg">
+<img  src = "./readme-assets/Homepage.png">
 </div>
 <table>
   <tr>
