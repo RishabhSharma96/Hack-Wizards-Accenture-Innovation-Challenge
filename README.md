@@ -85,7 +85,7 @@ We've developed a cutting-edge Rewards and Loyalty system for our e-commerce pla
 ---
 
 ````
-1. git clone https://github.com/shokushwaha/Grid-HackWizards.git
+1. git clone https://github.com/RishabhSharma96/Hack-Wizards-Accenture-Innovation-Challenge
 
 2. cd client
 
@@ -111,7 +111,7 @@ OPENAI_API=""
 ---
 
 ````
-1. git clone https://github.com/shokushwaha/Grid-HackWizards.git
+1. git clone https://github.com/RishabhSharma96/Hack-Wizards-Accenture-Innovation-Challenge
 
 2. cd admin
 
