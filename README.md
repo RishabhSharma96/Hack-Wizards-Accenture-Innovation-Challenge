@@ -4,7 +4,7 @@
 <h1 align="center"> <font size="5"> <b> NextZone </b></h1>
 <!-- PROJECT LOGO -->
 
-<h2><b>🔗 Ecommerce platform with Blockchain Based Loyalty & Rewards System</b></h2>
+<h2><b>🔗Blockchain Based Loyalty & Rewards System for Shopping Firms</b></h2>
 
   
 # [DEMO LINK](https://drive.google.com/file/d/11xk3s51DabcfCA30YOiBRKTqRxXxE8m9/view?usp=drive_link)
