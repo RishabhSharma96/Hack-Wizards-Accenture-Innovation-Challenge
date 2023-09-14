@@ -7,7 +7,7 @@
 <h2><b>🔗Blockchain Based Loyalty & Rewards System for Shopping Firms</b></h2>
 
   
-# [DEMO LINK](https://drive.google.com/file/d/11xk3s51DabcfCA30YOiBRKTqRxXxE8m9/view?usp=drive_link)
+# [DEMO LINK](https://drive.google.com/file/d/1y_rsgUv0rFmca7Cg6vx33eK0j93a7uxw/view?usp=sharing)
 
   </div>
   
