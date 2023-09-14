@@ -164,6 +164,8 @@ Thanks goes to these wonderful people ❤️
     <td align="center"><a href="https://github.com/shokushwaha"><img src="https://avatars.githubusercontent.com/u/109756367?v=4" width="100px;" alt=""/><br /><sub><b>Shobhit Kushwaha</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/RishabhSharma96"><img src="https://avatars.githubusercontent.com/u/114917946?v=4" width="100px;" alt=""/><br /><sub><b>Rishabh Sharma</b></sub></td>
     <td align="center"><a href="https://github.com/ayush09316"><img src="https://avatars.githubusercontent.com/u/111636248?v=4" width="100px;" alt=""/><br /><sub><b>Ayush Sharma</b></sub></td>
+    <td align="center"><a href="https://github.com/RohanParmar2002"><img src="https://avatars.githubusercontent.com/u/97934837?v=4" width="100px;" alt=""/><br /><sub><b>Rohan Parmar</b></sub></td>
+  
   </tr>
 </table>
 
